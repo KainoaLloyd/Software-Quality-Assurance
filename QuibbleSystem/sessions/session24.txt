@@ -1,0 +1,8 @@
+login
+2
+create
+christmas
+151225
+600
+logout
+die

@@ -1,0 +1,8 @@
+login
+2
+create
+baloney
+151228
+700
+logout
+die

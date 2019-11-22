@@ -1,0 +1,7 @@
+login
+2
+sell
+eventI
+100
+logout
+die

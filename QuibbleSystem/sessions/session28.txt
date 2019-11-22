@@ -1,0 +1,4 @@
+login
+2
+logout
+die

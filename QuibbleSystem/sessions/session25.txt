@@ -1,0 +1,8 @@
+login
+2
+create
+mybirthday
+151224
+600
+logout
+die

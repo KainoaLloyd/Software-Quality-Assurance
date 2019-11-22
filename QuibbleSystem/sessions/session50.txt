@@ -1,0 +1,6 @@
+login
+2
+delete
+eventO
+logout
+die

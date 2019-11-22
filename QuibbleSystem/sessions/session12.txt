@@ -1,0 +1,7 @@
+login
+2
+add
+eventJ
+70
+logout
+die

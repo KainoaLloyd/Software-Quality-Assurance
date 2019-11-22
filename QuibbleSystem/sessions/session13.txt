@@ -1,0 +1,7 @@
+login
+2
+add
+Yevent
+40
+logout
+die

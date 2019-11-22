@@ -1,0 +1,12 @@
+login
+2
+create
+pizzaParty
+151230
+500
+create
+bananaParty
+151230
+500
+logout
+die

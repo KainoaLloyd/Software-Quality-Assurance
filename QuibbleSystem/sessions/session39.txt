@@ -1,0 +1,5 @@
+login
+1
+logout
+sell
+die

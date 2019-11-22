@@ -1,0 +1,7 @@
+login
+2
+sell
+eventL
+600
+logout
+die

@@ -1,0 +1,12 @@
+login
+2
+create
+AnEventU
+151228
+10
+create
+AnEventU
+151228
+10
+logout
+die

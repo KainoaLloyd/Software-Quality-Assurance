@@ -1,0 +1,8 @@
+login
+1
+create
+AnEvent
+151220
+10
+logout
+die

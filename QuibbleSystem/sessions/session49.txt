@@ -1,0 +1,9 @@
+login
+2
+create
+AneventR
+151228
+999999
+10
+logout
+die

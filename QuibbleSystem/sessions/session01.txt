@@ -1,0 +1,12 @@
+login
+2
+create
+Aevent
+151230
+80
+create
+Bevent
+151230
+80
+logout
+die

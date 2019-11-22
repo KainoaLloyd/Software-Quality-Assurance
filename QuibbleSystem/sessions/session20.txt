@@ -1,0 +1,7 @@
+login
+2
+return
+eventN
+600
+logout
+die

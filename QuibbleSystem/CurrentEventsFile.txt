@@ -1,0 +1,14 @@
+eventD              50000
+eventE              50000
+eventF              50000
+eventG              50000
+eventH              50000
+eventI              50000
+eventJ              50000
+eventK              50000
+eventL              50000
+eventM              50000
+eventN              50000
+eventO              50000
+eventU              50000
+eventX              50000
