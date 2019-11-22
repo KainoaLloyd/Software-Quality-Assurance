@@ -1,0 +1,6 @@
+login
+2
+sell
+event1
+999999
+logout

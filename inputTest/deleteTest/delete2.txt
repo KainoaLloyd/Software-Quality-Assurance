@@ -1,0 +1,5 @@
+login
+2
+delete
+notevent
+logout

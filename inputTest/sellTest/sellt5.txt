@@ -1,0 +1,5 @@
+login
+2
+sell
+10
+logout

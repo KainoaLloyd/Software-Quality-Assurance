@@ -1,0 +1,8 @@
+login
+2
+delete
+event4
+add
+event4
+5
+logout

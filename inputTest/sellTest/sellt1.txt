@@ -1,0 +1,6 @@
+login
+2
+sell
+notEvent
+3
+logout

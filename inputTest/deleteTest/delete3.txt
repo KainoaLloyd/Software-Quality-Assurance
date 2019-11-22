@@ -1,0 +1,8 @@
+login
+2
+delete
+event1
+sell
+event1
+10
+logout
